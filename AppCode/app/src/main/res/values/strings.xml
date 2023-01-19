@@ -1,12 +1,19 @@
 <resources>
     <string name="app_name">DeadLock</string>
-    <string name="action_settings">Settings</string>
-    <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
+    <string name="splash_screen_Description">splash_screen_logo_Description</string>
+    <string name="Login">Login</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="OR">OR</string>
+    <string name="NewUser">New User? Register Now</string>
+    <string name="ForgotPassword">Forgot your Password?</string>
+    <string name="SignUp">Registration</string>
+    <string name="FirstName">Fist Name</string>
+    <string name="LastName">Last Name</string>
+    <string name="ConformPassword">Conform Password</string>
+    <string name="Department">Department</string>
+    <string name="AlreadyHaveAccount">Have you account? Log In</string>
+    <string name="RegisterBtn">Register Now</string>
 
-    <string name="hello_first_fragment">Hello first fragment</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 </resources>
